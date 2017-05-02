@@ -1,2 +1,2 @@
 ## Example Projects:
-1. [Hello Github](https://sparklyspencer.github.io/hello-world/)
+1. [GitHub Tutorial](https://sparklyspencer.github.io/hello-world/)

@@ -1,2 +1,2 @@
-# Projects
-- [Hello Github](https://sparklyspencer.github.io/hello-world/)
+## Projects
+1. [Hello Github](https://sparklyspencer.github.io/hello-world/)

@@ -6,3 +6,13 @@
 - [CS 1400: Fundamentals of Programming]()
 - [CS 1410: Object Oriented Programming](https://sparklyspencer.github.io/UVU_CS1410/)
 - [CS 2810: Computer Organization and Architecture]()
+
+## Follow Me:
+- [DeviantArt](http://theos-kengen.deviantart.com/)
+- [Facebook](https://www.facebook.com/Sparkly.Spencer)
+- [GitHub](https://github.com/SparklySpencer)
+- [Instagram](http://www.pictaram.com/user/sparkly.spencer/3224073746)
+- [LinkedIn](https://www.linkedin.com/in/spencer-pride-97b643a)
+
+## Contact Me:
+- Email: Theos.Kengen@gmail.com

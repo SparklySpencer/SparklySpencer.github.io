@@ -13,6 +13,3 @@
 - [GitHub](https://github.com/SparklySpencer)
 - [Instagram](http://www.pictaram.com/user/sparkly.spencer/3224073746)
 - [LinkedIn](https://www.linkedin.com/in/spencer-pride-97b643a)
-
-## Contact Me:
-- Email: Theos.Kengen@gmail.com

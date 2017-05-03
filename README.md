@@ -9,7 +9,8 @@
 
 ## Follow Me:
 - [DeviantArt](http://theos-kengen.deviantart.com/)
-- [Facebook](https://www.facebook.com/Sparkly.Spencer)
+~ Art Portfolio
 - [GitHub](https://github.com/SparklySpencer)
-- [Instagram](http://www.pictaram.com/user/sparkly.spencer/3224073746)
+~ Programming Portfolio
 - [LinkedIn](https://www.linkedin.com/in/spencer-pride-97b643a)
+~ Online Resume
